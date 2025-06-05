@@ -1,7 +1,5 @@
 # Task-7
-Here’s a short and clear description you can use in your GitHub README:
 
----
 
 ### 📊 Basic Sales Summary Using SQLite and Python
 
